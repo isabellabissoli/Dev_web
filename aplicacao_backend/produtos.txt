@@ -1,0 +1,3 @@
+id: 1
+nome: Geladeira
+Preço: 100.0
